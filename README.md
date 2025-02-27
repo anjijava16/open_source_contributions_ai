@@ -6,3 +6,6 @@
 
 ## Youtube Ref Link
 1. https://www.youtube.com/watch?v=sQkxoic7sLI
+
+## Web Info
+1. https://thealliance.ai/core-projects/the-living-guide-to-applying-ai
